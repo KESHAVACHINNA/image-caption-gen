@@ -11,3 +11,4 @@ transformers==5.4.0
 requests==2.27.1
 openweathermap-api==0.1.0
 cv2==4.9.0
+gunicorn
